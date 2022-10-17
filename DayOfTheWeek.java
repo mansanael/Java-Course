@@ -1,8 +1,5 @@
 public class DayOfTheWeek {
-       public static void main(String[] args) {
-                
-       }
-       
+
        String dayOfTheWeek(int D) {
         String theDay = "";
         switch (D) {
