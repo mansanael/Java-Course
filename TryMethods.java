@@ -13,6 +13,8 @@ public class TryMethods {
         System.out.println(theDay);
 
         System.out.println(sumThousand());
+
+        System.out.println(sumEven());
         
     }
 
@@ -41,5 +43,12 @@ public class TryMethods {
         return sum;
     }
 
-    
+    public static int sumEven(){
+        int sum = 0;
+        for (int i = 12; i < 104 ; i+=2) {
+            sum+=i;
+        }
+
+        return sum;
+    }
 }
