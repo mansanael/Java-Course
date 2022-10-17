@@ -11,6 +11,8 @@ public class TryMethods {
 
         String theDay = myDay.dayOfTheWeek(3); 
         System.out.println(theDay);
+
+        System.out.println(sumThousand());
         
     }
 
@@ -28,6 +30,15 @@ public class TryMethods {
             }
         }
         return theDay;
+    }
+    public static int sumThousand(){
+       int sum = 0;
+       int i = 0;
+        while (i<1000){
+            i++;
+            sum+=i;
+        }
+        return sum;
     }
 
     
