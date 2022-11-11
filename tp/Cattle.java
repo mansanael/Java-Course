@@ -1,3 +1,4 @@
+package tp;
 public class Cattle extends Mammal{
 
     private int numberOfHead;
@@ -10,6 +11,7 @@ public class Cattle extends Mammal{
     public static void main(String[] args){
         Cattle mainCattle = new Cattle(2, 1);
         mainCattle.closeEye();
+
 
     }
 }

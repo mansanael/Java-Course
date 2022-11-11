@@ -1,4 +1,4 @@
-
+package tp;
 public class TryMethods {
     /**
      * This methods is the TryMethods

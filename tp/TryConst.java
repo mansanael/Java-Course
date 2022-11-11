@@ -1,3 +1,4 @@
+package tp;
 public class TryConst {
     private String username;
     private int age;

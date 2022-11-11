@@ -1,3 +1,4 @@
+package tp;
 public class Mammal {
 
     int numberOfEyes;

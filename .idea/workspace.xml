@@ -5,13 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e034791d-ccaa-49f7-b0f7-0529b6b01788" name="Changes" comment="DayOfTheWeek deleted and method added to TryMethods">
-      <change afterPath="$PROJECT_DIR$/Cattle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TryConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/APICall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/APICall1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/APIInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/AnimalAbstrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/Cattle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/Java-Course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/JavaMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/TryConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/TryMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnimalAbstrac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cattle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cattle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOfTheWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Course.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mammal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mammal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryConst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryConst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TryMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Course/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Course/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Course/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Course/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Course/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Course/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Course/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Course/DayOfTheWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Course/Java-Course.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Course/TryMethods.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,23 +84,28 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2GFseSa0IElS8kfCxV333UsGAyh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Mansa/Documents/GitHub/Java-Course/tp",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.Cattle">
+  <component name="RunManager">
     <configuration name="Cattle" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -81,6 +124,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaMethods" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tp.JavaMethods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Rectangle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TryConst" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -90,9 +156,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TryMethods" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tp.TryMethods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tp.Rectangle" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tp.Rectangle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tp.TryConst" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tp.TryConst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,6 +245,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.Cattle" />
         <item itemvalue="Application.Cattle" />
       </list>
@@ -172,7 +281,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665997723926</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DayOfTheWeek deleted and method added to TryMethods">
+      <created>1668158289943</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668158289943</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DayOfTheWeek deleted and method added to TryMethods">
+      <created>1668158325362</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668158325362</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +310,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="few adjusts" />
     <MESSAGE value="DayOfTheWeek deleted and method added to TryMethods" />
     <option name="LAST_COMMIT_MESSAGE" value="DayOfTheWeek deleted and method added to TryMethods" />
